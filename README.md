@@ -4,7 +4,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/your-repo.git
+   git clone https://github.com/laurence-c-jpg/task-manager.git
    cd your-repo
 
 2. **Create and activate a virtual environment**
